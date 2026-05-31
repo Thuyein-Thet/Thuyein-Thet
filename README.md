@@ -23,6 +23,7 @@ Passionate software developer with 3 years of experience in web development. Cur
 
 * React
 * React Native
+* Vue
 * JavaScript (ES6+)
 * TypeScript
 * HTML5
@@ -33,7 +34,11 @@ Passionate software developer with 3 years of experience in web development. Cur
 
 * Laravel
 * PHP
+* Java
+* Springboot
+* JavaScript
 * REST APIs
+* Perl
 
 ### Database
 
