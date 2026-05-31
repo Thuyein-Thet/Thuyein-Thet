@@ -76,9 +76,9 @@ A mobile application that aggregates weekly supermarket flyers and promotions to
 
 ## 📫 Contact
 
-* GitHub: @yourusername
-* LinkedIn: your-linkedin-profile
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* GitHub: @Thuyein-Thet
+* LinkedIn: www.linkedin.com/in/thuyein-thet-83205b28b
+* Email: [thuyein.thet555@gmail.com]
 
 ---
 
