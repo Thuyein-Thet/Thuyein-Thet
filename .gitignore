@@ -17,6 +17,10 @@
 .*sw[op]
 *~
 
+### IDE / AI ###
+## Claude Code instructions:
+CLAUDE.md
+
 ### Mac OS X ###
 ## Mac OS X metadata files:
 *.DS_Store
