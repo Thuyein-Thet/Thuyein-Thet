@@ -51,6 +51,7 @@ Passionate software developer with 3 years of experience in web development. Cur
 * GitHub
 * Docker
 * VS Code
+* Claude
 
 ---
 
